@@ -1,10 +1,17 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [M.F.M. Ashfaaq]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [October 15, Friday, 2021].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
 
-### R1D2
+### Day 1: October 15, 2021
+
+
+**Today's Progress**: Completed working on two simple programs: (1) Guess the Number and (2) The collatz Seqeunce
+
+**Thoughts:** I have started 100 days of code. This is my first round. Feeling excited. I have started learning python.
+
+
+
