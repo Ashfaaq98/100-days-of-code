@@ -33,3 +33,14 @@ A script to get the bandwidth information using bwm-ng(Bandwidth Manager Next Ge
 
 **Thoughts:** Got confused with python and bash scripting. I think i will have to be good with the basics
 
+
+
+### R1D4 
+
+### Day 4: October 18, 2021
+
+
+**Today's Progress**: Completed the load balancing fucntion for POX controller. The algorithm is based on least bandwidth.
+
+**Thoughts:** The load balancer application is working. It was compared with the round robin and random modules in Mininet SDN Environment.
+
