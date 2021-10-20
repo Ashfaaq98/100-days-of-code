@@ -44,3 +44,22 @@ A script to get the bandwidth information using bwm-ng(Bandwidth Manager Next Ge
 
 **Thoughts:** The load balancer application is working. It was compared with the round robin and random modules in Mininet SDN Environment.
 
+
+### R1D5 
+
+### Day 5: October 19, 2021
+
+
+**Today's Progress**: Took a break and decided to spend time with friends and family.
+
+
+
+### R1D6 
+
+### Day 6: October 20, 2021
+
+
+**Today's Progress**: Created a bash script to generate  a detailed system report.
+
+**Thoughts:** I have noted down all the bash scripts that I need to work on. I think i will have to go deeper on awk and sed
+
