@@ -63,3 +63,13 @@ A script to get the bandwidth information using bwm-ng(Bandwidth Manager Next Ge
 
 **Thoughts:** I have noted down all the bash scripts that I need to work on. I think i will have to go deeper on awk and sed
 
+
+### R1D7 
+
+### Day 7: October 21, 2021
+
+
+**Today's Progress**: Revised python lists and coded the commaCode.py file.
+
+**Thoughts:** I have noted down all the python scripts that I need to work on. 
+
