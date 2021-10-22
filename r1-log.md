@@ -73,3 +73,14 @@ A script to get the bandwidth information using bwm-ng(Bandwidth Manager Next Ge
 
 **Thoughts:** I have noted down all the python scripts that I need to work on. 
 
+
+### R1D8 
+
+### Day 8: October 22, 2021
+
+
+**Today's Progress**: Used python loops and list to create the characterGrid.py
+
+**Thoughts:** Spending the least time on this, because I am studying for my final exams
+
+
