@@ -20,9 +20,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 2: September 28, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the concepts of Web Scraping. Learnt how to use the requests module and Beautiful Soup
 
-**Thoughts:** 
+**Thoughts:** I should practice on web scraping and built my web scraper and try it add more features.
 
 
 
