@@ -31,9 +31,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 3: September 29, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Learnt the contepts of creating a port scanner. Started the basics of building a port scanner.
 
-**Thoughts:** 
+**Thoughts:** Hopefully looking forward to continue building the port scanner. 
 
 
 
