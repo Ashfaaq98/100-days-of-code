@@ -42,6 +42,82 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 4: September 30, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**:Built a simple Port Scanner which takes the IP address as the argument and scans for open ports
+
+**Thoughts:** I think I should practice building my own Port Scanner from scratch and add more functions and features.
+
+
+
+
+### R1D5 
+
+### Day 5: October 01, 2023
+
+
+**Today's Progress**:
 
 **Thoughts:** 
+
+
+
+
+
+### R1D6 
+
+### Day 6: October 02, 2023
+
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+
+
+
+
+### R1D7 
+
+### Day 7: October 03, 2023
+
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+
+
+
+### R1D8 
+
+### Day 8: October 04, 2023
+
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+
+
+### R1D9 
+
+### Day 9: October 05, 2023
+
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+
+
+
+### R1D10 
+
+### Day 10: October 06, 2023
+
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+
+
