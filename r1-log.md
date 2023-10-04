@@ -92,9 +92,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 8: October 04, 2023
 
 
-**Today's Progress**:
+**Today's Progress**: Learnt and understood modules such as platform, sys, re and zipfile.
 
-**Thoughts:** 
+**Thoughts:** These modules are very important when writing scripts that will interact computer systems.
 
 
 
