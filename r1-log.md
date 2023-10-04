@@ -54,9 +54,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 5: October 01, 2023
 
 
-**Today's Progress**:
+**Today's Progress**: Learnt how to handle user input and practiced handling files by opening, reading and writing into them.
 
-**Thoughts:** 
+**Thoughts:** Handling files is essential in order to handle external data, process large amount of information and and store program outputs to for later use.
 
 
 
@@ -67,9 +67,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 6: October 02, 2023
 
 
-**Today's Progress**:
+**Today's Progress**:Learnt How to use the psutil module and how to use the functions it provides.
 
-**Thoughts:** 
+**Thoughts:** I think I should use the psutil module to write server monitoring script.
 
 
 
@@ -80,9 +80,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 7: October 03, 2023
 
 
-**Today's Progress**:
+**Today's Progress**: Learnt socket programming and the different functions it provides.
 
-**Thoughts:** 
+**Thoughts:** I should built a simple HTTP Server and Client and also a FTP Server and client.
 
 
 
