@@ -103,9 +103,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 9: October 05, 2023
 
 
-**Today's Progress**:
+**Today's Progress**: Started working on the Network Traffic Classifier project.
 
-**Thoughts:** 
+**Thoughts:** Learnt new modules related to machine learning.
 
 
 
