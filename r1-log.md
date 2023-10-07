@@ -105,7 +105,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 
 **Today's Progress**: Started working on the Network Traffic Classifier project.
 
-**Thoughts:** Learnt new modules related to machine learning.
+**Thoughts:** Learnt new modules related to machine learning. 
 
 
 
@@ -115,9 +115,118 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 10: October 06, 2023
 
 
-**Today's Progress**:
+**Today's Progress**: Learnt how to use modules pandas, numpy and scikit-learn. Developed basic machine learning models.
+
+**Thoughts:** Gaining Confidence.
+
+
+
+
+### R1D11 
+
+### Day 11: October 07, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+### R1D12 
+
+### Day 12 : October 08, 2023
+
+
+**Today's Progress**: 
 
 **Thoughts:** 
 
 
 
+
+### R1D13 
+
+### Day 13 : October 09, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D14 
+
+### Day 14 : October 10, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D15 
+
+### Day 15 : October 11, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D16 
+
+### Day 16 : October 12, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D17 
+
+### Day 17 : October 13, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D18 
+
+### Day 18 : October 14, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D19 
+
+### Day 19 : October 15, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+### R1D20 
+
+### Day 20 : October 16, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
