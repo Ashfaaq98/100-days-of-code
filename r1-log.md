@@ -127,9 +127,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 11: October 07, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Learnt more machine learning models through python modules.
 
-**Thoughts:** 
+**Thoughts:** Machine learning is difficult.
 
 
 ### R1D12 
@@ -137,9 +137,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 12 : October 08, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Took a break
 
-**Thoughts:** 
+**Thoughts:** Took a break
 
 
 
@@ -149,9 +149,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 13 : October 09, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Took a break 
 
-**Thoughts:** 
+**Thoughts:** Took a break
 
 
 
@@ -161,9 +161,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 14 : October 10, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Went through the Week 8 practicals on using urllib and hashlib modules.
 
-**Thoughts:** 
+**Thoughts:** Need to be consistent and do more projects
 
 
 
@@ -222,9 +222,139 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 **Thoughts:** 
 
 
+
 ### R1D20 
 
 ### Day 20 : October 16, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D21 
+
+### Day 21 : October 17, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D22 
+
+### Day 22 : October 18, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D23 
+
+### Day 23 : October 19, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D24 
+
+### Day 24 : October 20, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D25 
+
+### Day 25 : October 21, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D26 
+
+### Day 26 : October 22, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D27 
+
+### Day 27 : October 23, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D28 
+
+### Day 28 : October 24, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D29 
+
+### Day 29 : October 25, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D30 
+
+### Day 30 : October 26, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D31 
+
+### Day 31 : October 27, 2023
 
 
 **Today's Progress**: 
