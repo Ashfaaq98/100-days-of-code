@@ -172,7 +172,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 15 : October 11, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: NO PROGRESS AS I WAS NOT WELL.
 
 **Thoughts:** 
 
@@ -183,7 +183,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 16 : October 12, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: NO PROGRESS AS I WAS NOT WELL.
 
 **Thoughts:** 
 
