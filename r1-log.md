@@ -194,7 +194,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 17 : October 13, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: NO PROGRESS AS I WAS NOT WELL.
 
 **Thoughts:** 
 
@@ -205,9 +205,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 18 : October 14, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Revisited the module hashlib. Learnt the secrets and bcrypt module.
 
-**Thoughts:** 
+**Thoughts:** Brcypt is used to hash password with salt. I need to revise the hash functions again. 
 
 
 
