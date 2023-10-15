@@ -217,9 +217,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 19 : October 15, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Learnt how the modules fernet, rsa work and also learnt about cryptography module in python.
 
-**Thoughts:** 
+**Thoughts:** I think I need to learn how each of the cryptographic algorithms work in python and build a project on it.
 
 
 
