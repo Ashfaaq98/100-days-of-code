@@ -228,9 +228,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 20 : October 16, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Learnt how to use AES encryption using python.
 
-**Thoughts:** 
+**Thoughts:** Thinking of working on PORSHA, the Digital Forensics tool.
 
 
 
