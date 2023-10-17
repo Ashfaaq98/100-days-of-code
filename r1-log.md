@@ -239,9 +239,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 21 : October 17, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Revisited PROJECT PORSHA. Worked on the features that needed to improve the tool.
 
-**Thoughts:** 
+**Thoughts:** Excited about working with the tool. Looking forward to improve it step by step using modules.
 
 
 
