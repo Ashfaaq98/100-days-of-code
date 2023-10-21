@@ -251,9 +251,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 22 : October 18, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Started a new project on Personal Website.
 
-**Thoughts:** 
+**Thoughts:** Need to learn css and html to create a static website.
 
 
 
@@ -263,9 +263,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 23 : October 19, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Started a new project on my Personal AI assistant named KANMANI
 
-**Thoughts:** 
+**Thoughts:** I have divided into phases and I wish to complete step by step.
 
 
 
