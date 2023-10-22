@@ -275,7 +275,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 24 : October 20, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: No Progress !!!
 
 **Thoughts:** 
 
@@ -287,7 +287,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 25 : October 21, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: No Progress !!
 
 **Thoughts:** 
 
@@ -299,9 +299,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 26 : October 22, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Organized the projects that I wish to do and revisited AES encryption
 
-**Thoughts:** 
+**Thoughts:** I need to be consistent with my work. In sha Allah. !!
 
 
 
