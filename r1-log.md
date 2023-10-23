@@ -310,9 +310,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 27 : October 23, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Researched the functions of an encryption software.
 
-**Thoughts:** 
+**Thoughts:** Planning to build an encryption software.
 
 
 
