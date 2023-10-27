@@ -321,7 +321,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 28 : October 24, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: AES Encryption and Decryption Revisited.
 
 **Thoughts:** 
 
@@ -333,7 +333,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 29 : October 25, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Encoding and Decoding using base64.
 
 **Thoughts:** 
 
@@ -345,7 +345,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 30 : October 26, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: How to clone Web sites using python
 
 **Thoughts:** 
 
@@ -357,6 +357,6 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 31 : October 27, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on a File Integrity Checker.
 
-**Thoughts:** 
+**Thoughts:** No Comments 
