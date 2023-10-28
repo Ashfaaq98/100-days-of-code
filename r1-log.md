@@ -360,3 +360,102 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 **Today's Progress**: Worked on a File Integrity Checker.
 
 **Thoughts:** No Comments 
+
+
+
+### R1D32 
+
+### Day 32 : October 28, 2023
+
+
+**Today's Progress**: Revisited Project KANMANI. Learnt how to import modules in python.
+
+**Thoughts:** Need to continue the KANMANI PROJECT.
+
+
+### R1D33 
+
+### Day 33 : October 29, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D34 
+
+### Day 34 : October 30, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D35 
+
+### Day 35 : October 31, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D36 
+
+### Day 36 : November 01, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D37 
+
+### Day 37 : November 02, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D38 
+
+### Day 38 : November 03, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D39 
+
+### Day 39 : November 04, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+### R1D40 
+
+### Day 40 : November 05, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
