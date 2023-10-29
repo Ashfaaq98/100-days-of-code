@@ -378,9 +378,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 33 : October 29, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on Project KANMANI. Developed Speech to Text and Text to Speech.
 
-**Thoughts:** 
+**Thoughts:** Need to test the modules on KANMANI and focus and work more on PORSHA.
 
 
 
