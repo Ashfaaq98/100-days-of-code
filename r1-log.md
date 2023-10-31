@@ -389,9 +389,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 34 : October 30, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the Research Project. Researched on how to write code for anomaly detection and malware detection
 
-**Thoughts:** 
+**Thoughts:** Dedicated the next 30 days to complete the project.
 
 
 
