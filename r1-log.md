@@ -411,9 +411,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 36 : November 01, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the Research Project. Researched on how to write code for malware detection
 
-**Thoughts:** 
+**Thoughts:** Need to focus more on the final research Project.
 
 
 
