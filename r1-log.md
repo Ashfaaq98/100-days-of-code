@@ -422,9 +422,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 37 : November 02, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Learnt assembly language to disassemble a malware. Also learnt how to use python to perform static malware analysis.
 
-**Thoughts:** 
+**Thoughts:** The malware detector will contribute towards the DFIR system.
 
 
 
