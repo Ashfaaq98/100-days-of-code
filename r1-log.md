@@ -433,9 +433,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 ### Day 38 : November 03, 2023
 
 
-**Today's Progress**: 
+**Today's Progress**: Learnt how to perform Static Malware Analysis.
 
-**Thoughts:** 
+**Thoughts:** It is interesting.
 
 
 
