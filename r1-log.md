@@ -441,7 +441,29 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 
 ### R1D39 
 
-### Day 39 : November 04, 2023
+### Day 39 : November 13, 2023
+
+
+**Today's Progress**: Worked on Network Attack Classifier ML Model
+
+**Thoughts:** Failed to implement and contribute. Poor knowledge in Machine Learning.
+
+
+
+
+### R1D40 
+
+### Day 40 : November 14, 2023
+
+
+**Today's Progress**: Worked on developing a malware detector ML Model.
+
+**Thoughts:** Successfully learnt how to implement a malware detector ML Model.
+
+
+### R1D41 
+
+### Day 41 : November 15, 2023
 
 
 **Today's Progress**: 
@@ -450,10 +472,64 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2023].
 
 
 
+### R1D41 
 
-### R1D40 
+### Day 41 : November 15, 2023
 
-### Day 40 : November 05, 2023
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D41 
+
+### Day 41 : November 15, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D41 
+
+### Day 41 : November 15, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D41 
+
+### Day 41 : November 15, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D41 
+
+### Day 41 : November 15, 2023
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### R1D41 
+
+### Day 41 : November 15, 2023
 
 
 **Today's Progress**: 
