@@ -7,8 +7,9 @@ The log of my #100DaysOfCyberSecurity challenge. Started on [February 21, Wednes
 ## Log 
 ### Day 1: February 26, 2024
 
-**Today's Progress**: 
+**Today's Progress**: I have selected two books that I need to work on. Both the books are based on how python can be used in cybersecurity. The books are "Black Hat Python 2nd Edition" and "Python for Cyber Security". Got a brief understanding on how the book is structured.
 
+Set up Kali Linux Box, updated and upgraded it. Ready to start hacking. Went through some of the material on PEH. Learnt pivoting and priviledge escalation.
 
 
 ### Day 2: February 27, 2024
