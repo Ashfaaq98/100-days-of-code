@@ -1,63 +1,34 @@
 # #100DaysOfCode Log - Round 2 - [M.F.M. Ashfaaq]
 
-The log of my #100DaysOfCode challenge. Started on [February 19, Monday, 2024].
+The log of my #100DaysOfCode challenge. Started on [March 1 st, Friday, 2024].
 
 ## Log
  
-### Day 1: February 19, 2024
+### Day 1: March 1st, 2024
 
 **Today's Progress**: 
 
-**Thoughts:** I have started 100 days of code. This is my first second. Feeling excited. 
+**Thoughts:** I have started 100 days of code. This is my first second round. Feeling excited. 
 
 
 
-### Day 2: February 20, 2024
+### Day 2: March 2nd, 2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+### Day 3: March 3 rd, 2024
 
 **Today's Progress**: 
 
 **Thoughts:** 
 
-
-
-### Day 3: February 21, 2024
-
-**Today's Progress**: 
-
-**Thoughts:** 
 
  
-
-### Day 4: February 22, 2024
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-
-
-### Day 5: February 23, 2024
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-
-### Day 6: February 24, 2024
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-
-### Day 7: February 25, 2024
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-
-### Day 8: February 26, 2024
+### Day 4: March 4 th, 2024
 
 **Today's Progress**: 
 
@@ -65,7 +36,7 @@ The log of my #100DaysOfCode challenge. Started on [February 19, Monday, 2024].
 
 
 
-### Day 9: February 27, 2024
+### Day 5: March 5 th, 2024
 
 **Today's Progress**: 
 
@@ -73,16 +44,3 @@ The log of my #100DaysOfCode challenge. Started on [February 19, Monday, 2024].
 
 
 
-### Day 10: February 28, 2024
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-
-
-### Day 11: February 29, 2024
-
-**Today's Progress**: 
-
-**Thoughts:** 
