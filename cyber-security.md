@@ -14,7 +14,7 @@ Set up Kali Linux Box, updated and upgraded it. Ready to start hacking. Went thr
 
 ### Day 2: February 27, 2024
 
-**Today's Progress**: 
+**Today's Progress**: Started the cyber security Fundamentals course on IBM Skills build program. Registered with AWS and researched quantum computing capabilities to run deep learning models. Worked on the Research Paper. Went through the PEH course on how to set up a AD domain controller.
 
 
 
