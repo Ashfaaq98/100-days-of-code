@@ -20,7 +20,7 @@ Set up Kali Linux Box, updated and upgraded it. Ready to start hacking. Went thr
 
 ### Day 3: February 28, 2024
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the command challenge and learnt how to use grep, sed, tr and sort. Started learning Web Application Hacking through PEH academy course and the Book provided by Portswigger. 
 
 
 
