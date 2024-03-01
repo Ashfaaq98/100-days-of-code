@@ -26,7 +26,7 @@ Set up Kali Linux Box, updated and upgraded it. Ready to start hacking. Went thr
 
 ### Day 4: February 29, 2024
 
-**Today's Progress**: 
+**Today's Progress**: Worked on Web Application Pentesting and went through the book and Portswigger courses and also the PEH enumeration phase.
 
 
 
