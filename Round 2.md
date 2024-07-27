@@ -31,22 +31,18 @@ The log of my #100DaysOfCode challenge. Started on [July 22, Monday, 2024].
 ### Day 4: July 25, 2024
 
 
-**Today's Progress**: 
-
-
+**Today's Progress**: Break 
 
 
 
 ### Day 5: July 26, 2024
 
 
-**Today's Progress**: 
-
-
+**Today's Progress**: Worked on Porsha. Organizing the project
 
 
 
 ### Day 6: July 27, 2024
 
 
-**Today's Progress**: 
+**Today's Progress**: Continued working on Porsha. GUI integration.
