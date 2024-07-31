@@ -41,3 +41,55 @@ The log of my #100DaysOfCode challenge. Started on [July 22, Monday, 2024].
 ### Day 7: July 28, 2024
 
 **Today's Progress**: Continued working on Porsha. Used Pyqt to implement a main window
+
+
+### Day 8: July 29, 2024
+
+**Today's Progress**: Explored different prompt engineering framework for cyberlangchain
+
+
+### Day 9: July 30, 2024
+
+**Today's Progress**: Implemented and tested different prompt engineering framework on cyberlangchain
+
+
+### Day 10: July 31, 2024
+
+**Today's Progress**: Break 
+
+
+
+### Day 11: Auguest 1 st, 2024
+
+**Today's Progress**: Break 
+
+
+
+### Day 12: Auguest 2nd, 2024
+
+**Today's Progress**: Break 
+
+
+
+### Day 13: Auguest 3 rd, 2024
+
+**Today's Progress**: Break 
+
+
+
+### Day 14: Auguest 4 th, 2024
+
+**Today's Progress**: Break 
+
+
+
+### Day 15: Auguest 5 th, 2024
+
+**Today's Progress**: Break 
+
+
+
+### Day 16: Auguest 6 th, 2024
+
+**Today's Progress**: Break 
+
