@@ -67,7 +67,7 @@ The log of my #100DaysOfCode challenge. Started on [July 22, Monday, 2024].
 
 ### Day 12: Auguest 2nd, 2024
 
-**Today's Progress**:  
+**Today's Progress**:  Implemented different ways to evaluate an agent
 
 
 
