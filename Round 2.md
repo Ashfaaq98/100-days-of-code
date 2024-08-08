@@ -73,23 +73,47 @@ The log of my #100DaysOfCode challenge. Started on [July 22, Monday, 2024].
 
 ### Day 13: Auguest 3 rd, 2024
 
-**Today's Progress**:  
+**Today's Progress**:  Implemented agent final response evaluation.
 
 
 
 ### Day 14: Auguest 4 th, 2024
 
-**Today's Progress**:  
+**Today's Progress**:  Tested the cyberlangchain agent's final response with different prompts
 
 
 
 ### Day 15: Auguest 5 th, 2024
 
-**Today's Progress**:  
+**Today's Progress**:  Break
 
 
 
 ### Day 16: Auguest 6 th, 2024
+
+**Today's Progress**:  Researched OTX Alient vault and RST Cloud APIs
+
+
+
+### Day 17: Auguest 7 th, 2024
+
+**Today's Progress**:  Implemented OTX Alient vault Tool to be supported in cyber-langchain
+
+
+
+### Day 18: Auguest 8 th, 2024
+
+**Today's Progress**:  Completed the OTX Alient vault Tool and tested it.
+
+
+
+### Day 19: Auguest 9 th, 2024
+
+**Today's Progress**:  
+
+
+
+### Day 20: Auguest 10 th, 2024
 
 **Today's Progress**:  
 
